@@ -1,9 +1,0 @@
-Foss projects that require help and/or wish to hire developers.
-
-= NVDA =
-* [http://www.nvaccess.org/ NVDA site]
-
-==== Community Resources ====
-* [http://community.nvda-project.org/ Community]
-* [http://community.nvda-project.org/wiki/Connect Links to community resources]
-* [http://www.freelists.org/archive/nvda NVDA mailing list]
